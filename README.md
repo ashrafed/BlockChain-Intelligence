@@ -15,9 +15,9 @@
 
 -----------------------------------------------------
 
---+> selenium webdriver 
+--+> Selenium webdriver 
 
---+> maven 
+--+> Maven 
 
 --+> TestNG
 
